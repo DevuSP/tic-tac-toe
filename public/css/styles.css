@@ -18,7 +18,10 @@ body::before {
     z-index: -1;
     background: url("../img/wallpaper.jpg")no-repeat fixed center;
     background-size: cover;
-    
+}
+
+body{
+    height: 100vh;
 }
 
 h1{
